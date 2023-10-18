@@ -1,0 +1,27 @@
+﻿body {
+    background-color: #FFF;
+}
+
+.display-4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ff6a00;
+    position: absolute;
+    font-size: 40px;
+    top: 400px;
+    left: 440px;
+}
+
+p {
+    position: absolute;
+    font-size: 25px;
+    color: #ff0000;
+    top: 470px;
+    left: 500px;
+}
+
+img {
+    position: relative;
+    right: 200px;
+    width: 857px;
+    height: 600px;
+}
